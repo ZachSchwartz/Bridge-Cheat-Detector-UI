@@ -32,5 +32,5 @@ Private, since the tool implements a licensed third-party methodology, and publi
 
 ## Screenshots
  
-<img width="1093" height="423" alt="image" src="https://github.com/user-attachments/assets/4487f9a9-8b8d-4ae8-8dfc-e34940ce9b68" />
-<img width="1216" height="980" alt="image" src="https://github.com/user-attachments/assets/ada5e6e9-e050-40e6-8e69-a9f9ba70468d" />
+![Filters](docs/filters.png)
+![Results](docs/results.png)
