@@ -1,5 +1,5 @@
 # Bridge-Cheat-Detector-UI
-Desktop tool for screening sanctioned online bridge play, implementing The EDGAR Association's published cheat-detection methodology. Built under an ACBL agreement, shipped and in active use since February 2026.
+Writeup: desktop tool for screening sanctioned online bridge play, implementing The EDGAR Association's published cheat-detection methodology. Built under an ACBL agreement, shipped and in active use since February 2026.
  
 ## What it does
  
@@ -7,7 +7,7 @@ Loads a per player hand export, derives the columns that the methodology require
  
 The reviewers are bridge experts, and previously they would manually search the data in a spreadsheet, which was difficult and inefficient to use. The goal was to create a ui that would allow them to derive the same information from the same spreadsheet, but in a significantly easier to use manner.
 
-I'm not a bridge expert, so the interface came out of iterating with someone who is. Most of the revisions were modifying how various filters worked, to suit the needs of the client. Test outputs were confirmed against previous cases for validation. 
+Requirements came from direct iteration with a bridge expert on the reviewing side, and outputs were validated against previously adjudicated cases before handoff. 
  
 ## Build
  
